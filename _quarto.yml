@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "Zoe Gagalis"
+  navbar:
+   left:
+    - href: index.qmd
+      text: Home
+    - Resume.qmd
+    - Projects.qmd
+    - about.qmd
+  page-footer:
+    background: light
+    left: <p> &copy; 2025 Zoe Gagalis. All rights reserved</p>
+    right: This website is built with rstudio and github
+format:
+  html:
+    theme: lux
+    mainfont: arial
+    fontcolor: "#000000"
+    linkcolor: "#1BA749"
+    css: styles.css
+    monofont: courier new
+    toc: true
+    toc-location: right
+

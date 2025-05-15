@@ -1,0 +1,17 @@
+---
+title: "Zoe Gagalis"
+image: images/headshot.png
+about:
+  template: broadside
+  image-shape: rectangle
+  image-width: 20em
+  links:
+   - text: linkedin
+     href: https://www.linkedin.com/in/zoe-gagalis/
+   - text: Email
+     href: mailto:zgagalis422\@gmail.com
+   - text: Github
+     href: https://github.com/Zgagalis/
+---
+
+Thank you for visiting my website! My name is Zoe, I am a current senior at Colorado State University, studying ecosystem science and sustainability. I will be graduating in May 2025 and I am looking for work in corporate sustainability and conservation. Please browse my recent projects as well as my resume, Linkedin, and contact information.

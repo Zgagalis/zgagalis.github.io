@@ -1,0 +1,17 @@
+---
+title: "Resume"
+format: html
+---
+
+```{=html}
+
+<object data="images/Zoe_Gagalis_Resume_2025.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;"\>
+
+  \<p\>It appears you don't have a PDF plugin for this browser.
+
+  \<a href="images/Zoe_Gagalis_Resume_2025.pdf" download\>click here to download the PDF file.\</a\>\</p\>
+
+\</object\>
+```
+
+[Home Page](https://zgagalis.github.io/)
